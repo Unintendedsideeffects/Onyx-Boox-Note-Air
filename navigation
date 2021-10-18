@@ -1,0 +1,35 @@
+The gestures I've found a little lacking, I used Fluid Navigation Gestures to have a little more control over them
+
+Left Edge
+    BACK
+    Number of actions = 1
+    Size = 50%
+    Sensitivity = 25%
+    Transparency = 100%
+    Location = 100%
+
+Right Edge
+        Quick = ASSISTANT
+        Swipe and Hold = Previous app
+    Number of actions = 1
+    Size = 50%
+    Sensitivity = 25%
+    Transparency = 100%
+    Location = 100%
+
+Bottom
+    BACK HOME RECENTS
+    Swipe right = Previous app
+    Swipe left = next app
+
+    Number of actions = 3
+    Size = 100%
+    Sensitivity = 25%
+    Transparency = 100%
+    Location = 50%
+
+
+
+Remove all animations, set the size to maximum, remove any sound (vibration is not supported on this device)
+
+Rotate the triggers and move them away from keyboard should both be enabled.

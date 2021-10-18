@@ -1,0 +1,42 @@
+LANGUAGES
+    Languages
+        English(United States)
+    Current input method
+        Gboard
+Google voice typing
+Gboard
+Text to speech output
+    Google
+
+
+POWER
+    Auto Sleep
+        Inactive after 30 minutes
+        //battery takes a hit but it's not incredibly noticeable and improves your experience
+    Power Off Timeout
+        Never
+        //I don't think this is ever particularly useful and you can just turn off your tablet
+    Delay disconnection after device enters sleep mode (Network/Bluetooth/Audio)
+        Immediatly
+        //This is useful for the battery
+
+    Activate the Frontliight when the device wakes up
+        //This is useful if you wake up the device at night
+
+APPLICATIONS
+    USB Debugging Mode
+    Automatically update the Optimization Config of third-party apps
+    Enable Google Play
+
+MORE SETTINGS
+    Gesture Manager
+        Disable bottom
+        Enable Side with NO indicator
+        Warm Light/Cold Light
+    System Display
+        System Font size
+            Small
+        Custom homepage
+            Library
+        Function Tabs display icons only
+

@@ -1,0 +1,8 @@
+This is certainly one of the weakest areas for the note air, and for a while I couln't find any acceptable solution.
+Using google cast for screen mirroring is too limited, there is no easy way to use it with a laptop or desktop screen, and latency with a chromecast is not great.
+Unclear where the delay comes from but it's not useful and makes for a terrible experience.
+
+The solution I've found is to install the app ScreenStream from the play store.
+It creates a local server on your device that you can access on your network and it works very well.
+All you need is a browser tab and you're set.
+
